@@ -1,0 +1,13 @@
+
+.button {
+    -fx-font-family: "Arial";
+    -fx-font-size: 20;
+}
+
+
+
+.label {
+    -fx-font-family: "Ugly Byte Free Trial";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+}

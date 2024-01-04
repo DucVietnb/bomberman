@@ -1,0 +1,8 @@
+.button{
+
+}
+.label {
+    -fx-font-size: 40;
+    -fx-font-weight: bold;
+    -fx-alignments: center;
+}
